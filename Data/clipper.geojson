@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "clipper",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 110.341412914615773, -7.766357661514799 ], [ 110.341202044127044, -7.828142714712531 ], [ 110.396453412083872, -7.828331285934226 ], [ 110.396664282572601, -7.766546232736494 ], [ 110.341412914615773, -7.766357661514799 ] ] ] } }
+]
+}
