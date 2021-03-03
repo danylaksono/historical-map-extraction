@@ -12,7 +12,7 @@ Python libraries used in this project:
 
 ## How to Access
 
-The IPYNB file is better served using a running Jupyter Lab or Jupyter Notebook. [Click here](https://colab.research.google.com/github/danylaksono/historical-map-extraction/blob/main/Image%20Extraction%20on%20Historical%20Map.ipynb) to run this notebook in a Google Colab session.
+The IPYNB file is better served using a running Jupyter Lab or Jupyter Notebook. [Click here](https://colab.research.google.com/github/danylaksono/historical-map-extraction/blob/main/Building%20Footprints%20Extraction%20from%20Historical%20Map.ipynb) to run this notebook in a Google Colab session.
 
 ## About the data
 
